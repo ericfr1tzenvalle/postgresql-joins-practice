@@ -15,18 +15,6 @@ This repository contains SQL exercises using `JOIN`, `GROUP BY`, `HAVING`, and o
 All queries are adapted for **PostgreSQL**, following its syntax and specific features.
 
 ---
-
-## 📝 Estrutura dos Exercícios | Exercises Structure
-
-Cada exercício propõe uma consulta SQL a partir de um esquema de banco de dados com as seguintes tabelas principais:
-
-| Tabela | 
-| ------- | 
-| `cliente` | 
-| `notafiscal` | 
-| `itemvenda` | 
-| `funcionario` | 
-
 Os enunciados incluem operações como:  
 The exercises include operations such as:
 
